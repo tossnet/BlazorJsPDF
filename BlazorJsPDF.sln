@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33312.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorJsPDF", "BlazorJsPDF.csproj", "{648C405E-F94C-4D07-83EE-75C174916E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648C405E-F94C-4D07-83EE-75C174916E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648C405E-F94C-4D07-83EE-75C174916E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648C405E-F94C-4D07-83EE-75C174916E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648C405E-F94C-4D07-83EE-75C174916E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE659B16-5E54-40A3-B5D0-DD75938CD817}
+	EndGlobalSection
+EndGlobal
